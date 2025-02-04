@@ -18,4 +18,4 @@ console.log(undefined < 0);
 
 // === 
 
-console.log("2" === 2);
+console.log("2" === 2);     // === is use to struictly compare the value and type of the value
